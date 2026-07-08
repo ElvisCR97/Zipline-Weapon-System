@@ -6,6 +6,8 @@ I engineered this advanced Zipline Weapon System to allow players to shoot and d
 
 🛒 **Official Marketplace:** [Available on Epic Games FAB](https://www.fab.com/listings/31bd5c13-578d-4a37-96f5-2b247091e523)
 
+<img width="1920" height="1080" alt="Youtube-unreal-engine-5-zipline-weapon-system-Zipline2027_FeatureDZL_Zipline-System_UE5-VideoGameMechanics4_ZIPLINE-2026-2027-Deep customization-UnrealEngine5 8 controls" src="https://github.com/user-attachments/assets/d18fdcbc-6a80-4041-8ddb-2c143b33045f" />
+
 ---
 
 ## 🗦 Technical Architecture
